@@ -1,6 +1,4 @@
 //MARCOS VARELA
-//HUGO CASTRO
-//NAIM RIVERA
 
 #include <stdio.h>
 #include <stdbool.h>
