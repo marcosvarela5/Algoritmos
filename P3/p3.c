@@ -1,6 +1,4 @@
-/* Marcos Varela Marcos
-Hugo Castro González
-Naim Rivera Reigosa*/
+//MARCOS VARELA
 
 #include <stdio.h>
 #include <stdbool.h>
